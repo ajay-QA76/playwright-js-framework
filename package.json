@@ -1,1 +1,8 @@
-
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright Automation Framework",
+  "scripts": {
+    "test": "playwright test"
+  }
+}
